@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "target": "ES5",                          
+    "module": "commonjs",               
+    "lib": [
+      "es5",
+      "es2015",
+      "es2016",
+      "es2017"
+    ],                             
+    "outDir": "./dist", 
+    "rootDir": "./api", 
+    "strict": true, 
+    "esModuleInterop": true
+  }
+}
